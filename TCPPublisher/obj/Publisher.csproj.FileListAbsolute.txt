@@ -1,0 +1,9 @@
+D:\AthenaBroadcaster\Host\Controller\AthenaEventController\bin\Debug\AthenaEventController.exe.config
+D:\AthenaBroadcaster\Host\Controller\AthenaEventController\obj\Debug\AthenaEventController.exe
+D:\AthenaBroadcaster\Host\Controller\AthenaEventController\obj\Debug\AthenaEventController.pdb
+D:\AthenaBroadcaster1\Host\Controller\AthenaEventController\bin\Debug\AthenaEventController.exe.config
+D:\AthenaBroadcaster1\Host\Controller\AthenaEventController\obj\Debug\AthenaEventController.exe
+D:\AthenaBroadcaster1\Host\Controller\AthenaEventController\obj\Debug\AthenaEventController.pdb
+D:\AthenaBroadcaster1\AthenaBroadcaster1\AthenaBroadcaster1\AthenaBroadcaster1\Host\Controller\AthenaEventController\bin\Debug\AthenaEventController.exe.config
+D:\AthenaBroadcaster1\AthenaBroadcaster1\AthenaBroadcaster1\AthenaBroadcaster1\Host\Controller\AthenaEventController\obj\Debug\AthenaEventController.exe
+D:\AthenaBroadcaster1\AthenaBroadcaster1\AthenaBroadcaster1\AthenaBroadcaster1\Host\Controller\AthenaEventController\obj\Debug\AthenaEventController.pdb
